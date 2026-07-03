@@ -49,7 +49,7 @@ An intelligent application that helps users discover government schemes they are
 
 **Tech Stack:** Python, Flask, Streamlit, SQL, LLM, RAG
 
-🔗 **Repository:** https://github.com/harshithak1805/<repository-name>
+🔗 **Repository:** https://github.com/harshithak1805/public_govt_scheme_eligibility_checker
 
 ---
 
@@ -58,7 +58,7 @@ Developed an object detection model for thermal imagery using YOLO, achieving ac
 
 **Tech Stack:** Python, YOLO, PyTorch, OpenCV
 
-🔗 **Repository:** https://github.com/harshithak1805/<repository-name>
+🔗 **Repository:** https://github.com/harshithak1805/thermal-detect
 
 ---
 
@@ -67,7 +67,17 @@ An AI-powered maternal health risk prediction system that analyzes patient healt
 
 **Tech Stack:** Python, Streamlit, Scikit-learn, Machine Learning
 
-🔗 **Repository:** https://github.com/harshithak1805/<repository-name>
+🔗 **Repository:** https://github.com/harshithak1805/maternal_life_guard
+
+---
+
+### 🤖 AI-based Resource Optimizer
+
+An AI-powered resource optimization system that intelligently analyzes resource usage patterns and recommends optimal allocation strategies to improve efficiency, reduce costs, and enhance overall performance through data-driven decision-making.
+
+**Tech Stack:** Python, Machine Learning, Scikit-learn, Pandas, NumPy, Streamlit
+
+🔗 **Repository:** https://github.com/harshithak1805/AI-based-resource-optimizer
 
 ---
 
